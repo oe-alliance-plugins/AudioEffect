@@ -1,0 +1,18 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "",
+  "description_recipe": "Audio Effect setup",
+  "history_source_dir": "AudioEffect",
+  "internal_package_name": "enigma2-plugin-systemplugins-audioeffect",
+  "module_dir_name": "AudioEffect",
+  "output_subdir": "AudioEffect",
+  "package_name": "enigma2-plugin-systemplugins-audioeffect",
+  "plugin_src_rel": "AudioEffect",
+  "python_package": "AudioEffect",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "AudioEffect",
+  "rrecommends": "",
+  "rreplaces": ""
+}

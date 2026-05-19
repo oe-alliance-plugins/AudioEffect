@@ -8,58 +8,73 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-03 07:54+0100\n"
+"POT-Creation-Date: 2026-05-19 16:37+0200\n"
 "PO-Revision-Date: 2022-11-04 06:03+0100\n"
+"Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <tp@lists.linux.it>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "X-Generator: Lokalize 22.08.2\n"
 
+#: ../plugin.py:73
 msgid "3D Surround"
 msgstr "Surround 3D"
 
+#: ../plugin.py:199
 msgid "3D Surround Speaker Position"
 msgstr "Posizione altoparlanti surround 3D"
 
+#: ../plugin.py:75
 msgid "AVL (Automatic Volume Leveler)"
 msgstr "AVL (regolatore automatico del volume)"
 
+#: ../plugin.py:164
 msgid "Audio Effect Setup"
 msgstr "Impostazione effetto audio"
 
+#: ../plugin.py:172
 msgid "Audio Effect Setup is not supported."
 msgstr "La configurazione dell'effetto audio non è supportata."
 
+#: ../plugin.py:269
 msgid "AudioEffect"
 msgstr "AudioEffect"
 
+#: ../plugin.py:169
 msgid "Cancel"
 msgstr "Annulla"
 
+#: ../plugin.py:171
 msgid "Default"
 msgstr "Predefinito"
 
+#: ../plugin.py:192
 msgid "Effect"
 msgstr "Effetto"
 
+#: ../plugin.py:108
 msgid "Off"
 msgstr "Spento"
 
+#: ../plugin.py:108
 msgid "On"
 msgstr "Acceso"
 
+#: ../plugin.py:230
 msgid "Really close without saving settings?"
 msgstr "Chiudere davvero senza salvare le impostazioni?"
 
+#: ../plugin.py:170
 msgid "Save"
 msgstr "Salva"
 
+#: ../plugin.py:71
 msgid "none"
 msgstr "nessuno"
 
+#: ../plugin.py:269
 msgid "sets the audio effetcs"
 msgstr "imposta effetti audio"

@@ -6,6 +6,7 @@ from Screens.MessageBox import MessageBox
 from Components.Sources.StaticText import StaticText
 from Plugins.Plugin import PluginDescriptor
 from Tools.Directories import fileExists
+from . import _  # for localized messages
 
 AUDIOEFFECT_PROC_PATH = {
 	"3D_SURROUND": "/proc/stb/audio/3d_surround",

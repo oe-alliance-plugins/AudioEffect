@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2-oe-alliance-plugins 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-05-19 16:37+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: litvcom\n"
 "Language-Team: none\n"
@@ -15,47 +15,62 @@ msgstr ""
 "X-Generator: Poedit 1.8.11\n"
 "X-Poedit-SearchPath-0: ..\n"
 
+#: ../plugin.py:73
 msgid "3D Surround"
 msgstr "Объёмный звук 3D"
 
+#: ../plugin.py:199
 msgid "3D Surround Speaker Position"
 msgstr "Положение динамиков объёмного звука 3D"
 
+#: ../plugin.py:75
 msgid "AVL (Automatic Volume Leveler)"
 msgstr "Автоматическая регулировка громкости"
 
+#: ../plugin.py:164
 msgid "Audio Effect Setup"
 msgstr "Настройка звукового эффекта"
 
+#: ../plugin.py:172
 msgid "Audio Effect Setup is not supported."
 msgstr "Настройка звукового эффекта не поддерживается."
 
+#: ../plugin.py:269
 msgid "AudioEffect"
 msgstr "Звуковой эффект"
 
+#: ../plugin.py:169
 msgid "Cancel"
 msgstr "Отменить"
 
+#: ../plugin.py:171
 msgid "Default"
 msgstr "По умолчанию"
 
+#: ../plugin.py:192
 msgid "Effect"
 msgstr "Эффект"
 
+#: ../plugin.py:108
 msgid "Off"
 msgstr "Выкл."
 
+#: ../plugin.py:108
 msgid "On"
 msgstr "Вкл."
 
+#: ../plugin.py:230
 msgid "Really close without saving settings?"
 msgstr "Действительно закрыть без сохранения настроек?"
 
+#: ../plugin.py:170
 msgid "Save"
 msgstr "Сохранить"
 
+#: ../plugin.py:71
 msgid "none"
 msgstr "Нет"
 
+#: ../plugin.py:269
 msgid "sets the audio effetcs"
 msgstr "Установить звуковой эффект"
